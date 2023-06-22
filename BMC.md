@@ -3,10 +3,10 @@
 * The Baseboard Management Console has many different hardware components embedded inside of it, most notably the System Event Log, Field Replacable Unit and Sensor Data Record. 
 
 ## SEL (System Event Log)
-* 
+* The System Event Logs, logs all system events that occur in the server. 
 
 ## SDR (System Data Records)
-* 
+* The Sensor Data Records, logs all Sensor Data, including Temperature, Voltage and Fan Speed. The 
 
 ## FRU (Field Replacable Unit)
 * 
