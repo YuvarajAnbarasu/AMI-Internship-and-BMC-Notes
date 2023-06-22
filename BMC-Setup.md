@@ -11,6 +11,8 @@
 # QEMU BMC Status Script
 * Here I have provided a script you can use on VIM to run a status check on the BMC.
 * The script purposefully does not check for certain commands to avoid errors and potentially crashing the BMC.
+* If issues arise to debug simply place an exit block in vim where you believe the error is occuring.
+* To run the command type ```./"cmdname".sh ```
 * Note in order to run this script you will need access to the command obmcutil.
 
 ```
@@ -27,3 +29,4 @@ obmcutil listbootblock
 obmcutil listlogs
 ```
 
+# Raspian BMC
