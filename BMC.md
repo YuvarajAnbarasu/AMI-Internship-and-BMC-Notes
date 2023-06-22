@@ -1,4 +1,5 @@
 # BMC
+* The BMC is a microncontroller found within the servers motherboard and is used to make sure the server is working properly and alert the server administrators if any issues arise within the server.
 * BMCs are found widely throughout many different servers, they help keep check on server health and are used to help server admins fix and debug issues that arise within a server.
 * The Baseboard Management Console has many different hardware components embedded inside of it, most notably the System Event Log, Field Replacable Unit and Sensor Data Record. 
 
