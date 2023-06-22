@@ -13,8 +13,7 @@
 * The script purposefully does not check for certain commands to avoid errors and potentially crashing the BMC.
 * Note in order to run this script you will need access to the command obmcutil.
 
-''''
-'''
+```
 obmcutil bmcstate   
 obmcutil bootprogress
 obmcutil chassiskill
@@ -26,6 +25,5 @@ obmcutil state
 obmcutil status
 obmcutil listbootblock
 obmcutil listlogs
-'''
-''''
+```
 
