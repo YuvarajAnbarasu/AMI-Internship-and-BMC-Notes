@@ -15,7 +15,12 @@
 * The management software communicates with the BMC using the IPMI protocol, allowing administrators to interact with the server remotely.
 
 ## Key Features and Functionalities
-* a
+* Sensor Monitoring: IPMI provides access to various sensors embedded in the server, such as temperature, voltage, fan speed, and power consumption. It enables real-time monitoring and alerts administrators about critical events or abnormal conditions.
+* Event Logging: IPMI maintains a log, called the System Event Log (SEL), which records important system events, errors, and warnings. The SEL helps administrators diagnose issues, track hardware failures, and analyze system health.
+* Remote Power Control: IPMI allows administrators to remotely manage the power state of the server. They can power on, power off, restart, or perform a graceful shutdown of the server remotely.
+* Remote Console Access: IPMI provides a remote console feature that allows administrators to access and control the server's console interface over a network connection. It facilitates BIOS configuration, operating system installations, troubleshooting, and recovery tasks.
+* Remote Virtual Media: IPMI supports the mounting of virtual media, such as ISO images or virtual disks, allowing administrators to remotely boot the server from these media for software installations, firmware updates, or diagnostics.
+* Security: IPMI includes security measures such as authentication, access control, encryption, and secure communication protocols to ensure secure remote management and protect sensitive data.
 
 ## IPMI Versions
 * a
