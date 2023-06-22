@@ -23,13 +23,21 @@
 * FRU information helps administrators identify faulty components, track warranty status, and perform hardware maintenance and replacements.
 
 ## Power Control
-* a
+* The BMC enables remote power control capabilities for the server.
+* Administrators can remotely power on, power off, restart, or cycle power to the server.
+* Power control features are valuable for managing and troubleshooting systems located in remote or inaccessible environments.
 
 ## Firmware Management
-* a
+* The BMC facilitates firmware management for various components, including the BMC firmware, server BIOS, and other embedded devices.
+* It allows administrators to update firmware versions, apply bug fixes, and deploy security patches.
+* Firmware management enhances system stability, security, and compatibility with the latest enhancements and features.
 
 ## Remote Configuration & Inventory
-* a
+* The BMC allows remote configuration of server settings, network parameters, and hardware configurations.
+* It maintains an inventory of installed hardware components, including details such as model numbers, serial numbers, and firmware versions.
+* Remote configuration and inventory management streamline administration, deployment, and maintenance tasks.
 
 ## Security & Authentication
-*
+* The BMC includes security features to ensure secure remote management.
+* It provides authentication mechanisms, access control, encryption, and secure communication protocols to protect sensitive data.
+* Security measures safeguard against unauthorized access and ensure the integrity and confidentiality of management operations.
