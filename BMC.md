@@ -1,9 +1,11 @@
 # BMC
-* The Baseboard Management Console has many different hardware components embedded inside of it, most notably 
+* BMCs are found widely throughout many different servers, they help keep check on server health and are used to help server admins fix and debug issues that arise within a server. The Baseboard Management Console has many different hardware components embedded inside of it, most notably the System Event Log, Field Replacable Unit and Sensor Data Record. 
 
-## SEL ()
-*
+## SEL (System Event Log)
+* 
 
-## FRU ()
+## SDR (System Data Records)
+* 
 
-## SDR ()
+## FRU (Field Replacable Unit)
+* 
