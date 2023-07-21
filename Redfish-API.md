@@ -20,10 +20,15 @@ Redfish API is a standardized interface protocol developed by the Distributed Ma
 ## Key Features and Functionalities:
 
 **Sensor Monitoring:** Real-time access to server sensors like temperature, voltage, fan speed, and power consumption for critical event alerts and monitoring.
+
 **Event Logging:** Redfish maintains a log, the System Event Log (SEL), recording system events, errors, and warnings for diagnosing issues and tracking hardware failures.
+
 **Remote Power Control:** Administrators can remotely power on, off, restart, or gracefully shutdown servers with Redfish.
+
 **Remote Console Access:** Redfish offers remote console access, enabling BIOS configuration, OS installations, troubleshooting, and recovery tasks.
+
 **Remote Virtual Media:** Support for mounting virtual media, such as ISO images or virtual disks, for remote software installations, firmware updates, or diagnostics.
+
 **Security:** Redfish includes authentication, access control, encryption, and secure communication protocols to ensure secure remote management and protect data.
 
 ## Redfish Versions:
