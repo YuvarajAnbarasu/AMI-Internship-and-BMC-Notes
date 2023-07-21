@@ -31,7 +31,8 @@ obmcutil listlogs
 
 ## Raspian BMC
 * In order to build a BMC in a Raspberry Pi
+* Although setting up a Raspian BMC is very useful if used correctly, alternative options such as piKVMs provide much better options compared to Raspian BMCs.
 
-## Yocto Project BMC
+## Yocto Project
 * Yocto is a framework
 * 
