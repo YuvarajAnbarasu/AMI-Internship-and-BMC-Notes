@@ -42,3 +42,6 @@
 * The BMC includes security features to ensure secure remote management.
 * It provides authentication mechanisms, access control, encryption, and secure communication protocols to protect sensitive data.
 * Security measures safeguard against unauthorized access and ensure the integrity and confidentiality of management operations.
+
+Overall the Baseboard Management Console provides a lot of features for smoother server management. Huge providers such as Google and Amazon, use BMC technology in their servers to help manage their servers and gain constant updates. Using BMC technology major technology companies are able to stay ahead and regulate server crashes with huge companies only having around 5 minutes of downtime. Overall the Baseboard Management Console is a really useful chip and is essential to know about to get into the firmware development field.
+
