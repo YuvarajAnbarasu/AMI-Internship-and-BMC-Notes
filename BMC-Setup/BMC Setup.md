@@ -31,17 +31,17 @@ obmcutil listlogs
 
 ## Raspian BMC
 * In order to build a BMC in a Raspberry Pi you must download the BMC image from the Github below and run the image following the instructions in the Github.
-* https://github.com/joshuaboniface/rpibmc
 * Unlike most BMCs, in my personal opinion Raspian BMCs were the most useful and helped me gain the most understanding over a BMC. To setup a BMC using a Raspberry Pi functionally please follow the link below.
-* https://www.boniface.me/a-raspberry-pi-bmc/
 * Although setting up a Raspian BMC is very useful in understanding the different parts of a BMC, alternative options such as piKVMs provide much better options in understanding many complex aspects of BMCs and especially KVMs.
+* https://github.com/joshuaboniface/rpibmc
+* https://www.boniface.me/a-raspberry-pi-bmc/
 * https://www.pikvm.org
 
 ## Yocto Project
 * Yocto is a framework that is derived from Linux, through the use of Yocto we can build a BMC on the Yocto framework.
 * To start off install the Yocto image from the Github below and build the BMC image.
-* https://github.com/openbmc/docs/blob/master/yocto-development.md
 * Follow the steps on the Github to successfully build the Yocto image.
+* https://github.com/openbmc/docs/blob/master/yocto-development.md
 
 ## Bonus 
 * Most BMCs provided above required the use of an image to build a demo BMC.
