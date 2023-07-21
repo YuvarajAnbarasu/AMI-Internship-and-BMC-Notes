@@ -5,7 +5,7 @@ Yocto Project BMC refers to the implementation of a Baseboard Management Control
 
 ## Out-of-Band Management:
 
-* Yocto Project BMC allows out-of-band management capabilities, enabling remote management, monitoring, and control of embedded systems built with Yocto Project.
+Yocto Project BMC allows out-of-band management capabilities, enabling remote management, monitoring, and control of embedded systems built with Yocto Project.
 
 ## Purpose and Benefits:
 
