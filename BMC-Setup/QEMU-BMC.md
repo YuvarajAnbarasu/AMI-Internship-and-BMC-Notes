@@ -26,3 +26,5 @@
 
 **Note:**
 QEMU BMC is an emulated BMC specifically designed for virtual machines in the QEMU virtualization environment. It is essential to differentiate it from physical BMC implementations used in real hardware systems. Detailed documentation for QEMU BMC usage and configuration should be referred to for specific deployment and management details in virtual environments.
+
+QEMU is specifically used as it uses an aRM processor like a BMC over a x86 processor like many modern computers. This is the reason QEMU is used to implement a virtual BMC over implementing a BMC directly into your modern computer.
