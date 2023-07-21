@@ -1,5 +1,5 @@
 # AMI Internship
-I began interning at AMI at the start of June and have completed 40 hours in total. During the internship, I learned what a Baseboard Management Console(BMC) is and the different parts of the BMC. This includes the IPMI protocol, Redfish API and the KVM. I have made this Github to showcase projects I have completed throughout the internship and to showcase what I have learned from this internship.
+I began interning at AMI at the start of June and have completed 40 hours in total. During the internship, I learned what a Baseboard Management Console(BMC) is and the different parts of the BMC. This includes the IPMI protocol, Redfish API and the KVM. I have made this Github to showcase projects I have completed throughout the internship and to showcase what I have learned from this internship. I hope these notes are helpful and will help you in your future endeavors. 
 
 # BASICS
 
