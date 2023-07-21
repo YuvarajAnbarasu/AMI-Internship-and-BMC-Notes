@@ -5,8 +5,11 @@
 ## Key components of KVM:
 
 **KVM Module:** The core component of KVM, implemented as a Linux kernel module, provides the necessary interfaces and functionalities for virtualization.
+
 **QEMU (Quick Emulator):** A user-space component that works in conjunction with KVM to emulate hardware devices for VMs. QEMU helps manage the interaction between the VMs and the host hardware.
+
 **Libvirt:** An API toolkit that simplifies the management and control of virtualized resources. Libvirt provides a unified interface for interacting with different virtualization technologies, including KVM.
+
 **Hardware Virtualization Extensions:** KVM relies on hardware virtualization extensions found in modern CPUs, such as Intel VT-x or AMD-V. These extensions enhance the virtualization performance and allow the VMs to execute directly on the physical hardware.
 
 ## Functions of KVM:
@@ -19,8 +22,11 @@
 Various tools and interfaces are available for managing VMs with KVM:
 
 **virt-manager:** A graphical user interface (GUI) that provides an easy way to create, configure, and manage VMs on a local or remote host.
+
 **virsh:** A command-line tool that allows administrators to manage VMs and their associated resources through a shell interface.
+
 **Libvirt API:** Developers can use Libvirt's programming interfaces to create custom applications for VM management.
+
 **Snapshot and Cloning:** KVM allows users to take snapshots of VMs at specific points in time, capturing their state and configurations. These snapshots can be used for backups or for creating clones of VMs for rapid deployment.
 
 **Live Migration:** One of KVM's significant features is live migration, which enables VMs to be moved from one physical host to another without any noticeable downtime. This is crucial for workload balancing, high availability, and server maintenance.
